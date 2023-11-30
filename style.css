@@ -82,7 +82,7 @@ a {
 }
 .fas {
   font-size: 50px;
-  color: orange;
+  color: greenyellow;
   border: none;
   cursor: pointer;
 }
@@ -90,4 +90,8 @@ a {
 .fas:hover {
   color: red;
   
+}
+button {
+  background-color: transparent;
+  border: none;
 }
